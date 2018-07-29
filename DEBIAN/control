@@ -1,0 +1,12 @@
+Package: custom-iso-builder
+Version: 0.1.15
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 196
+Depends: coreutils, grep, mc, mount, rsync, sparky-remsu, sparky-xterm (>= 0.2.0), squashfs-tools, syslinux, syslinux-utils, xorriso, xz-utils, yad, zenity
+Section: System
+Priority: optional
+Homepage: https://sparkylinux.org
+Description: Custom ISO Builder
+  Custom ISO Builder is a tool which can rebuild an existing ISO image and customize it.
+
